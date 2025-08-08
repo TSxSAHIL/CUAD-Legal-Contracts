@@ -104,8 +104,6 @@ pip install -r requirements.txt
 
 ![Flow Diagram](flowdiagram.png)
 
-## Notes
 
-- The pipeline is modular and can be extended for more clause types or different LLMs.
-- For large-scale or production use, consider batching API calls and handling rate limits.
+
 
