@@ -20,8 +20,7 @@ This project provides an automated pipeline for analyzing legal contract PDFs us
 ### 1. Clone the Repository
 
 ```
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/TSxSAHIL/CUAD-Legal-Contracts.git
 ```
 
 ### 2. Install Dependencies
@@ -109,3 +108,4 @@ pip install -r requirements.txt
 
 - The pipeline is modular and can be extended for more clause types or different LLMs.
 - For large-scale or production use, consider batching API calls and handling rate limits.
+
